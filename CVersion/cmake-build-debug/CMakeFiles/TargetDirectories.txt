@@ -1,0 +1,3 @@
+/home/tony/OpenSource/leetcode/CVersion/cmake-build-debug/CMakeFiles/CVersion.dir
+/home/tony/OpenSource/leetcode/CVersion/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/tony/OpenSource/leetcode/CVersion/cmake-build-debug/CMakeFiles/rebuild_cache.dir
